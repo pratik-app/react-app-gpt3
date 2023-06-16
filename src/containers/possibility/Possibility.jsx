@@ -8,10 +8,10 @@ const Possibility = () => (
       <img src={possibilityImage} alt="possibility" />
     </div>
     <div className="gpt3__possibility-content">
-      <h4>Request Early Access to Get Started</h4>
-      <h1 className="gradient__text">The possibilities are <br /> beyond your imagination</h1>
-      <p>Yet bed any for travelling assistance indulgence unpleasing. Not thoughts all exercise blessing. Indulgence way everything joy alteration boisterous the attachment. Party we years to order allow asked of.</p>
-      <h4>Request Early Access to Get Started</h4>
+      <h4>Checkout Projects</h4>
+      <h1 className="gradient__text">Check My <br /> <a href='https://pratikmore.com'>Portfolio</a></h1>
+      <p>The upcoming projects will be focused on React, as I embark on leveraging this powerful library for developing dynamic and engaging user interfaces. I am excited to dive into the world of React, exploring its vast potential to create innovative web applications that deliver seamless and immersive experiences.</p>
+      <h4>Check Now!</h4>
     </div>
   </div>
 );
